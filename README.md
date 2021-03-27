@@ -1,6 +1,6 @@
 # cfw-mail-sender
 
-Minimul script to kick SendGrid send email API via Cloudflare Workers.
+Minimal script to kick [SendGrid API](https://sendgrid.kke.co.jp/docs/API_Reference/Web_API_v3/Mail/index.html) via Cloudflare Workers.
 
 ## Before begin
 
