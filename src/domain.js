@@ -22,7 +22,7 @@ export const sendMail = async params => {
       }
     ],
     from: {
-      email: "noreply@send-mailer.net"
+      email: "noreply@mail-sender.dev"
     },
     content: [
       {
